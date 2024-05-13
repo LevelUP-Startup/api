@@ -1,0 +1,48 @@
+2024-05-13 15:56:51:5651 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 15:56:51:5651 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 15:57:35:5735 [35mhttp[39m: [35mGET / 404 139 - 6.581 ms[39m
+[35m[39m
+2024-05-13 15:57:40:5740 [35mhttp[39m: [35mGET /ping 404 143 - 0.769 ms[39m
+[35m[39m
+2024-05-13 15:57:45:5745 [35mhttp[39m: [35mGET /api/ping 404 147 - 0.603 ms[39m
+[35m[39m
+2024-05-13 15:57:48:5748 [35mhttp[39m: [35mGET /api 404 142 - 0.617 ms[39m
+[35m[39m
+2024-05-13 15:58:09:589 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 15:58:09:589 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 15:58:13:5813 [35mhttp[39m: [35mGET /api/pong 404 147 - 3.294 ms[39m
+[35m[39m
+2024-05-13 15:58:16:5816 [35mhttp[39m: [35mGET /api/ping 404 147 - 1.036 ms[39m
+[35m[39m
+2024-05-13 15:58:18:5818 [35mhttp[39m: [35mGET /api/ping 404 147 - 1.092 ms[39m
+[35m[39m
+2024-05-13 15:58:23:5823 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 15:58:23:5823 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 15:58:28:5828 [35mhttp[39m: [35mGET /api/ping 404 147 - 3.115 ms[39m
+[35m[39m
+2024-05-13 15:58:29:5829 [35mhttp[39m: [35mGET /api/ping 404 147 - 1.133 ms[39m
+[35m[39m
+2024-05-13 15:58:29:5829 [35mhttp[39m: [35mGET /api/ping 404 147 - 0.743 ms[39m
+[35m[39m
+2024-05-13 15:59:17:5917 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 15:59:17:5917 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 15:59:22:5922 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 15:59:22:5922 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 15:59:22:5922 [35mhttp[39m: [35mGET /api/ping 200 15 - 3.825 ms[39m
+[35m[39m
+2024-05-13 15:59:22:5922 [35mhttp[39m: [35mGET /favicon.ico 404 150 - 2.307 ms[39m
+[35m[39m
+2024-05-13 16:00:31:031 [35mhttp[39m: [35mGET /api/ping 200 15 - 0.753 ms[39m
+[35m[39m
+2024-05-13 16:00:31:031 [35mhttp[39m: [35mGET /api/ping 200 15 - 0.341 ms[39m
+[35m[39m
+2024-05-13 16:01:01:11 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:01:01:11 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:01:02:12 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:01:02:12 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:01:09:19 [35mhttp[39m: [35mGET /api/ping 200 4 - 1.716 ms[39m
+[35m[39m
+2024-05-13 16:01:15:115 [35mhttp[39m: [35mGET /api/ping 200 4 - 0.791 ms[39m
+[35m[39m
+2024-05-13 16:04:57:457 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:04:57:457 [32minfo[39m: [32mServer running on port 3000[39m

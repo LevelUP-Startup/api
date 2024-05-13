@@ -1,0 +1,11 @@
+# Environment
+.env
+.env.local
+
+# Build files
+build
+dist
+out
+
+# Node modules
+node_modules

@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Palmieri",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.5.1",
+    "morgan": "^1.10.0",
+    "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "@types/config": "^3.3.1",
+    "@types/express": "^4.17.17",
+    "@types/mongoose": "^5.11.97",
+    "@types/morgan": "^1.9.5",
+    "@types/node": "^20.6.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
