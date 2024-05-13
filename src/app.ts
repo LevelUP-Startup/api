@@ -17,7 +17,7 @@ app.use("/api/", router);
 const port = config.get("port") as number;
 
 app.listen(port, async () => {
-    await db();
+  await db();
 
-    Logger.info(`Server running on port ${port}`);
+  Logger.info(`Server running on port ${port}`);
 });
