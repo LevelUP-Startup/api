@@ -1,0 +1,12 @@
+2024-05-13 20:45:34:4534 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:10:4610 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:24:4624 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:33:4633 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 22:15:12:1512 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:15:36:1536 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:15:44:1544 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:16:19:1619 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:17:16:1716 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:18:21:1821 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:20:02:202 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:20:22:2022 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
