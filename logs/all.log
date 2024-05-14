@@ -62,3 +62,649 @@
 2024-05-13 16:16:30:1630 [32minfo[39m: [32mServer running on port 3000[39m
 2024-05-13 16:16:32:1632 [32minfo[39m: [32mConectado ao banco de dados![39m
 2024-05-13 16:16:32:1632 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:18:36:1836 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:18:36:1836 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:26:08:268 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:26:08:268 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:28:19:2819 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:28:19:2819 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:29:00:290 [35mhttp[39m: [35mGET /api/user/ 200 10 - 2.642 ms[39m
+[35m[39m
+2024-05-13 16:29:00:290 [35mhttp[39m: [35mGET /api/user/ 200 10 - 1.259 ms[39m
+[35m[39m
+2024-05-13 16:29:26:2926 [35mhttp[39m: [35mPOST /api/user 200 9 - 0.457 ms[39m
+[35m[39m
+2024-05-13 16:30:34:3034 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:30:34:3034 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:30:54:3054 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:30:54:3054 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:31:05:315 [35mhttp[39m: [35mPOST /api/user 422 232 - 5.002 ms[39m
+[35m[39m
+2024-05-13 16:31:25:3125 [35mhttp[39m: [35mPOST /api/user 422 232 - 3.110 ms[39m
+[35m[39m
+2024-05-13 16:31:37:3137 [35mhttp[39m: [35mPOST /api/user 422 160 - 4.183 ms[39m
+[35m[39m
+2024-05-13 16:31:55:3155 [35mhttp[39m: [35mPOST /api/user 422 65 - 1.932 ms[39m
+[35m[39m
+2024-05-13 16:32:02:322 [35mhttp[39m: [35mPOST /api/user 422 65 - 1.074 ms[39m
+[35m[39m
+2024-05-13 16:32:09:329 [35mhttp[39m: [35mPOST /api/user 422 65 - 1.135 ms[39m
+[35m[39m
+2024-05-13 16:32:13:3213 [35mhttp[39m: [35mPOST /api/user 422 65 - 1.144 ms[39m
+[35m[39m
+2024-05-13 16:32:15:3215 [35mhttp[39m: [35mPOST /api/user 422 65 - 0.835 ms[39m
+[35m[39m
+2024-05-13 16:32:22:3222 [35mhttp[39m: [35mPOST /api/user 201 52 - 3.020 ms[39m
+[35m[39m
+2024-05-13 16:32:28:3228 [35mhttp[39m: [35mPOST /api/user 201 52 - 1.238 ms[39m
+[35m[39m
+2024-05-13 16:41:28:4128 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:41:28:4128 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:41:31:4131 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:41:31:4131 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:41:37:4137 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:41:37:4137 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:41:49:4149 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:41:49:4149 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:42:25:4225 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:42:25:4225 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:42:28:4228 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:42:28:4228 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:42:59:4259 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:42:59:4259 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:43:03:433 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:43:03:433 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:43:08:438 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:43:08:438 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:44:07:447 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:44:07:447 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:44:44:4444 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:44:44:4444 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:44:52:4452 [35mhttp[39m: [35mPOST /api/user 201 171 - 40.745 ms[39m
+[35m[39m
+2024-05-13 16:46:28:4628 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:46:28:4628 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:51:40:5140 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:51:40:5140 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:51:48:5148 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:51:48:5148 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:55:49:5549 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:55:49:5549 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 16:56:25:5625 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 16:56:25:5625 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 17:02:00:20 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 17:02:00:20 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 17:02:18:218 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 17:02:18:218 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 17:03:28:328 [35mhttp[39m: [35mGET /api/auth/sign-up 404 155 - 5.647 ms[39m
+[35m[39m
+2024-05-13 17:03:32:332 [35mhttp[39m: [35mPOST /api/auth/sign-up 404 156 - 5.022 ms[39m
+[35m[39m
+2024-05-13 17:03:46:346 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 17:03:46:346 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 17:03:47:347 [35mhttp[39m: [35mPOST /api/auth/sign-up 422 179 - 11.489 ms[39m
+[35m[39m
+2024-05-13 17:04:14:414 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 131.021 ms[39m
+[35m[39m
+2024-05-13 17:04:29:429 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 123.909 ms[39m
+[35m[39m
+2024-05-13 20:32:21:3221 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:32:21:3221 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:33:57:3357 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 133.331 ms[39m
+[35m[39m
+2024-05-13 20:44:28:4428 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:44:28:4428 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:44:31:4431 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 143.042 ms[39m
+[35m[39m
+2024-05-13 20:44:34:4434 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 125.067 ms[39m
+[35m[39m
+2024-05-13 20:44:35:4435 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 123.472 ms[39m
+[35m[39m
+2024-05-13 20:44:36:4436 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 129.326 ms[39m
+[35m[39m
+2024-05-13 20:44:58:4458 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:44:58:4458 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:45:05:455 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 233 - 138.470 ms[39m
+[35m[39m
+2024-05-13 20:45:34:4534 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:05:465 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:46:05:465 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:46:07:467 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:46:07:467 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:46:09:469 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:46:09:469 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:46:10:4610 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:10:4610 [35mhttp[39m: [35mPOST /api/auth/sign-up 400 37 - 140.585 ms[39m
+[35m[39m
+2024-05-13 20:46:21:4621 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:46:21:4621 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:46:24:4624 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:24:4624 [35mhttp[39m: [35mPOST /api/auth/sign-up 400 134 - 135.964 ms[39m
+[35m[39m
+2024-05-13 20:46:32:4632 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:46:32:4632 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:46:33:4633 [31merror[39m: [31mErro ao criar usuário: E11000 duplicate key error collection: develop.users index: email_1 dup key: { email: "matheuspalmieridev@gmail.com" }[39m
+2024-05-13 20:46:33:4633 [35mhttp[39m: [35mPOST /api/auth/sign-up 400 113 - 151.262 ms[39m
+[35m[39m
+2024-05-13 20:48:54:4854 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:48:54:4854 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:49:01:491 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:49:01:491 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:49:50:4950 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:49:50:4950 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:50:49:5049 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:50:49:5049 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:51:07:517 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:51:07:517 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:51:11:5111 [35mhttp[39m: [35mPOST /api/auth/sign-up 400 36 - 127.277 ms[39m
+[35m[39m
+2024-05-13 20:52:01:521 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:52:01:521 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:52:19:5219 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:52:19:5219 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:53:48:5348 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:53:48:5348 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:53:57:5357 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:53:57:5357 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:54:05:545 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:54:05:545 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:54:22:5422 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 182 - 127.264 ms[39m
+[35m[39m
+2024-05-13 20:57:10:5710 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 20:57:10:5710 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 20:57:26:5726 [35mhttp[39m: [35mPOST /api/auth/sign-in 401 39 - 38.962 ms[39m
+[35m[39m
+2024-05-13 20:57:29:5729 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 251 - 222.433 ms[39m
+[35m[39m
+2024-05-13 20:57:33:5733 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 200 - 115.586 ms[39m
+[35m[39m
+2024-05-13 21:04:13:413 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:04:13:413 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:04:59:459 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:04:59:459 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:08:47:847 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:08:47:847 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:09:16:916 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:09:16:916 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:09:46:946 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:09:46:946 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:09:58:958 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:09:58:958 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:10:10:1010 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:10:10:1010 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:10:41:1041 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:10:41:1041 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:10:43:1043 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:10:43:1043 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:02:112 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:02:112 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:06:116 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:06:116 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:14:1114 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:14:1114 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:19:1119 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:19:1119 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:23:1123 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:23:1123 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:32:1132 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:32:1132 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:11:45:1145 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:11:45:1145 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:12:10:1210 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:12:10:1210 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:12:14:1214 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 134.319 ms[39m
+[35m[39m
+2024-05-13 21:12:18:1218 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 126.362 ms[39m
+[35m[39m
+2024-05-13 21:12:19:1219 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 123.046 ms[39m
+[35m[39m
+2024-05-13 21:12:19:1219 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 131.242 ms[39m
+[35m[39m
+2024-05-13 21:12:20:1220 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 117.177 ms[39m
+[35m[39m
+2024-05-13 21:12:21:1221 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 142.697 ms[39m
+[35m[39m
+2024-05-13 21:12:22:1222 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 122.033 ms[39m
+[35m[39m
+2024-05-13 21:12:23:1223 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 126.453 ms[39m
+[35m[39m
+2024-05-13 21:12:24:1224 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 131.915 ms[39m
+[35m[39m
+2024-05-13 21:12:24:1224 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 125.224 ms[39m
+[35m[39m
+2024-05-13 21:18:54:1854 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:18:54:1854 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:19:59:1959 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:19:59:1959 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:20:22:2022 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:20:22:2022 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:20:28:2028 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:20:28:2028 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:22:31:2231 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 148.108 ms[39m
+[35m[39m
+2024-05-13 21:22:43:2243 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 126.091 ms[39m
+[35m[39m
+2024-05-13 21:23:03:233 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 1.508 ms[39m
+[35m[39m
+2024-05-13 21:23:13:2313 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:23:13:2313 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:23:13:2313 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 4.537 ms[39m
+[35m[39m
+2024-05-13 21:23:38:2338 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:23:38:2338 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:23:41:2341 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:23:41:2341 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:23:43:2343 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 6.677 ms[39m
+[35m[39m
+2024-05-13 21:23:54:2354 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:23:54:2354 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:23:58:2358 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 5.397 ms[39m
+[35m[39m
+2024-05-13 21:24:08:248 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:24:08:248 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:24:10:2410 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 5.060 ms[39m
+[35m[39m
+2024-05-13 21:24:48:2448 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:24:48:2448 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:26:20:2620 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:26:20:2620 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:26:28:2628 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:26:28:2628 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:27:13:2713 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:27:13:2713 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:27:18:2718 [35mhttp[39m: [35mPOST /api/auth/refresh-token 403 9 - 5.596 ms[39m
+[35m[39m
+2024-05-13 21:27:35:2735 [35mhttp[39m: [35mPOST /api/auth/refresh-token 403 9 - 2.170 ms[39m
+[35m[39m
+2024-05-13 21:27:43:2743 [35mhttp[39m: [35mPOST /api/auth/refresh-token 403 9 - 1.199 ms[39m
+[35m[39m
+2024-05-13 21:28:17:2817 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:28:17:2817 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:28:20:2820 [35mhttp[39m: [35mPOST /api/auth/refresh-token 403 9 - 13.955 ms[39m
+[35m[39m
+2024-05-13 21:28:41:2841 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:28:41:2841 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:29:34:2934 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:29:34:2934 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:29:40:2940 [35mhttp[39m: [35mPOST /api/auth/refresh-token 403 9 - 13.362 ms[39m
+[35m[39m
+2024-05-13 21:30:20:3020 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 137.106 ms[39m
+[35m[39m
+2024-05-13 21:30:26:3026 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 4.951 ms[39m
+[35m[39m
+2024-05-13 21:30:36:3036 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:30:36:3036 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:30:38:3038 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 11.569 ms[39m
+[35m[39m
+2024-05-13 21:31:55:3155 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:31:55:3155 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:04:324 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:04:324 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:25:3225 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:25:3225 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:41:3241 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:41:3241 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:54:3254 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:54:3254 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:55:3255 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:55:3255 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:32:59:3259 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:32:59:3259 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:33:13:3313 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:33:13:3313 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:34:12:3412 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:34:12:3412 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:34:18:3418 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:34:18:3418 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:35:36:3536 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:35:36:3536 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:36:18:3618 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:36:18:3618 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:36:23:3623 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:36:23:3623 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:37:26:3726 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:37:26:3726 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:37:51:3751 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:37:51:3751 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:37:56:3756 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:37:56:3756 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:16:3916 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:16:3916 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:27:3927 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:27:3927 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:38:3938 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:38:3938 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:43:3943 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:43:3943 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:50:3950 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:50:3950 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:39:59:3959 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:39:59:3959 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:40:10:4010 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:40:10:4010 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:40:35:4035 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:40:35:4035 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:40:39:4039 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:40:39:4039 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:40:48:4048 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 38.053 ms[39m
+[35m[39m
+2024-05-13 21:41:09:419 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:41:09:419 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:41:11:4111 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 38.312 ms[39m
+[35m[39m
+2024-05-13 21:43:03:433 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:43:03:433 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:43:11:4311 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:43:11:4311 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:43:14:4314 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:43:14:4314 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:43:21:4321 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:43:21:4321 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:44:43:4443 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:44:43:4443 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:46:24:4624 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:46:24:4624 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:46:28:4628 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:46:28:4628 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:46:36:4636 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:46:36:4636 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:46:48:4648 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:46:48:4648 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:47:24:4724 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:47:24:4724 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:50:34:5034 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:50:34:5034 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:50:57:5057 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:50:57:5057 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:51:15:5115 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:51:15:5115 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:51:25:5125 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:51:25:5125 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:51:35:5135 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:51:35:5135 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:51:42:5142 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:51:42:5142 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:51:51:5151 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:51:51:5151 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:06:526 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:06:526 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:21:5221 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:21:5221 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:35:5235 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:35:5235 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:38:5238 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:38:5238 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:41:5241 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:41:5241 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:47:5247 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:47:5247 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:51:5251 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:51:5251 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:52:55:5255 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:52:55:5255 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:53:01:531 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 44.843 ms[39m
+[35m[39m
+2024-05-13 21:53:09:539 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:53:09:539 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:53:16:5316 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:53:16:5316 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:53:45:5345 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:53:45:5345 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:54:16:5416 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:54:16:5416 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:54:23:5423 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:54:23:5423 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:54:28:5428 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:54:28:5428 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:54:33:5433 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 18 - 38.792 ms[39m
+[35m[39m
+2024-05-13 21:54:36:5436 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 18 - 26.041 ms[39m
+[35m[39m
+2024-05-13 21:54:54:5454 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:54:54:5454 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:54:56:5456 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 18 - 41.016 ms[39m
+[35m[39m
+2024-05-13 21:55:05:555 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:55:05:555 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 21:55:07:557 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 43.654 ms[39m
+[35m[39m
+2024-05-13 21:55:11:5511 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 27.666 ms[39m
+[35m[39m
+2024-05-13 21:55:25:5525 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 31.439 ms[39m
+[35m[39m
+2024-05-13 21:55:27:5527 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 25.775 ms[39m
+[35m[39m
+2024-05-13 21:55:27:5527 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 25.262 ms[39m
+[35m[39m
+2024-05-13 21:55:28:5528 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 194 - 24.882 ms[39m
+[35m[39m
+2024-05-13 21:59:35:5935 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 21:59:35:5935 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:00:30:030 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:00:30:030 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:00:35:035 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:00:35:035 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:00:41:041 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 388 - 9.333 ms[39m
+[35m[39m
+2024-05-13 22:00:53:053 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 7.384 ms[39m
+[35m[39m
+2024-05-13 22:00:54:054 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 4.200 ms[39m
+[35m[39m
+2024-05-13 22:00:55:055 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.380 ms[39m
+[35m[39m
+2024-05-13 22:00:56:056 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.671 ms[39m
+[35m[39m
+2024-05-13 22:00:57:057 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.260 ms[39m
+[35m[39m
+2024-05-13 22:00:57:057 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.391 ms[39m
+[35m[39m
+2024-05-13 22:00:59:059 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.231 ms[39m
+[35m[39m
+2024-05-13 22:01:00:10 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.779 ms[39m
+[35m[39m
+2024-05-13 22:01:07:17 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.766 ms[39m
+[35m[39m
+2024-05-13 22:01:09:19 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 4.475 ms[39m
+[35m[39m
+2024-05-13 22:01:19:119 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 6.080 ms[39m
+[35m[39m
+2024-05-13 22:01:28:128 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 130.101 ms[39m
+[35m[39m
+2024-05-13 22:01:36:136 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.471 ms[39m
+[35m[39m
+2024-05-13 22:01:37:137 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 2.652 ms[39m
+[35m[39m
+2024-05-13 22:01:52:152 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 120.344 ms[39m
+[35m[39m
+2024-05-13 22:01:57:157 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 13.855 ms[39m
+[35m[39m
+2024-05-13 22:01:58:158 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 2.868 ms[39m
+[35m[39m
+2024-05-13 22:02:14:214 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 15.964 ms[39m
+[35m[39m
+2024-05-13 22:02:16:216 [35mhttp[39m: [35mPOST /api/auth/refresh-token 401 30 - 1.694 ms[39m
+[35m[39m
+2024-05-13 22:02:19:219 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 550 - 125.611 ms[39m
+[35m[39m
+2024-05-13 22:02:21:221 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 5.301 ms[39m
+[35m[39m
+2024-05-13 22:02:22:222 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 3.034 ms[39m
+[35m[39m
+2024-05-13 22:03:26:326 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:26:326 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:03:29:329 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:29:329 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:03:42:342 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:42:342 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:03:46:346 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:46:346 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:03:52:352 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:52:352 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:03:57:357 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:03:57:357 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:04:04:44 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:04:04:44 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:04:19:419 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:04:19:419 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:07:14:714 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:07:14:714 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:07:41:741 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 4.148 ms[39m
+[35m[39m
+2024-05-13 22:08:22:822 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 36.367 ms[39m
+[35m[39m
+2024-05-13 22:08:32:832 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:08:32:832 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:08:35:835 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 57.284 ms[39m
+[35m[39m
+2024-05-13 22:08:55:855 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:08:55:855 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:08:57:857 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 32.464 ms[39m
+[35m[39m
+2024-05-13 22:09:17:917 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:09:17:917 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:09:21:921 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 35.857 ms[39m
+[35m[39m
+2024-05-13 22:09:44:944 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:09:44:944 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:09:46:946 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 27.923 ms[39m
+[35m[39m
+2024-05-13 22:10:19:1019 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:10:19:1019 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:10:21:1021 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 37.082 ms[39m
+[35m[39m
+2024-05-13 22:10:51:1051 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:10:51:1051 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:10:58:1058 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:10:58:1058 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:11:07:117 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:11:07:117 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:11:08:118 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 37.614 ms[39m
+[35m[39m
+2024-05-13 22:11:27:1127 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:11:27:1127 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:11:27:1127 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 34.256 ms[39m
+[35m[39m
+2024-05-13 22:11:57:1157 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:11:57:1157 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:11:59:1159 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 42.328 ms[39m
+[35m[39m
+2024-05-13 22:12:00:120 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 31.304 ms[39m
+[35m[39m
+2024-05-13 22:12:09:129 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:12:09:129 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:12:15:1215 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:12:15:1215 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:12:46:1246 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:12:46:1246 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:12:51:1251 [35mhttp[39m: [35mGET /api/auth/me 401 12 - 38.719 ms[39m
+[35m[39m
+2024-05-13 22:13:14:1314 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:13:14:1314 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:13:16:1316 [35mhttp[39m: [35mGET /api/auth/me 404 39 - 71.835 ms[39m
+[35m[39m
+2024-05-13 22:13:58:1358 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:13:58:1358 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:14:10:1410 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:14:10:1410 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:14:23:1423 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:14:23:1423 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:14:55:1455 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:14:55:1455 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:15:01:151 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:15:01:151 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:15:12:1512 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:15:12:1512 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 130.748 ms[39m
+[35m[39m
+2024-05-13 22:15:36:1536 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:15:36:1536 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 118.979 ms[39m
+[35m[39m
+2024-05-13 22:15:44:1544 [31merror[39m: [31mErro ao criar usuário: User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required.[39m
+2024-05-13 22:15:44:1544 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 146.464 ms[39m
+[35m[39m
+2024-05-13 22:15:58:1558 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:15:58:1558 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:16:16:1616 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:16:16:1616 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:16:19:1619 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:16:19:1619 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 151.594 ms[39m
+[35m[39m
+2024-05-13 22:17:14:1714 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:17:14:1714 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:17:16:1716 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:17:16:1716 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 137.548 ms[39m
+[35m[39m
+2024-05-13 22:18:08:188 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:18:08:188 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:18:18:1818 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:18:18:1818 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:18:21:1821 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:18:21:1821 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 132.254 ms[39m
+[35m[39m
+2024-05-13 22:19:48:1948 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:19:48:1948 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:20:02:202 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:20:02:202 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 132.944 ms[39m
+[35m[39m
+2024-05-13 22:20:22:2022 [31merror[39m: [31mErro ao criar usuário: document must have an _id before saving[39m
+2024-05-13 22:20:22:2022 [35mhttp[39m: [35mPOST /api/auth/sign-up 500 37 - 142.171 ms[39m
+[35m[39m
+2024-05-13 22:20:42:2042 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:20:42:2042 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:20:45:2045 [35mhttp[39m: [35mPOST /api/auth/sign-up 201 668 - 163.108 ms[39m
+[35m[39m
+2024-05-13 22:21:01:211 [35mhttp[39m: [35mPOST /api/auth/sign-in 200 594 - 133.999 ms[39m
+[35m[39m
+2024-05-13 22:21:05:215 [35mhttp[39m: [35mPOST /api/auth/refresh-token 200 365 - 5.998 ms[39m
+[35m[39m
+2024-05-13 22:21:08:218 [35mhttp[39m: [35mGET /api/auth/me 200 82 - 55.736 ms[39m
+[35m[39m
+2024-05-13 22:21:27:2127 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:21:27:2127 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:21:42:2142 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:21:42:2142 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:21:46:2146 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:21:46:2146 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:03:223 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:03:223 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:15:2215 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:15:2215 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:28:2228 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:28:2228 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:40:2240 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:40:2240 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:43:2243 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:43:2243 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:22:55:2255 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:22:55:2255 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:23:03:233 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:23:03:233 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:23:07:237 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:23:07:237 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:23:11:2311 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:23:11:2311 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:23:41:2341 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:23:41:2341 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:24:15:2415 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:24:15:2415 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:24:29:2429 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:24:29:2429 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:24:32:2432 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:24:32:2432 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:24:39:2439 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:24:39:2439 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:24:45:2445 [35mhttp[39m: [35mGET /api/auth/me 200 82 - 62.436 ms[39m
+[35m[39m
+2024-05-13 22:25:07:257 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:25:07:257 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:25:09:259 [35mhttp[39m: [35mGET /api/auth/me 200 126 - 95.902 ms[39m
+[35m[39m
+2024-05-13 22:25:16:2516 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:25:16:2516 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:25:19:2519 [35mhttp[39m: [35mGET /api/auth/me 200 117 - 68.626 ms[39m
+[35m[39m
+2024-05-13 22:25:47:2547 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:25:47:2547 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:33:38:3338 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:33:38:3338 [32minfo[39m: [32mServer running on port 3000[39m
+2024-05-13 22:34:06:346 [32minfo[39m: [32mConectado ao banco de dados![39m
+2024-05-13 22:34:06:346 [32minfo[39m: [32mServer running on port 3000[39m
